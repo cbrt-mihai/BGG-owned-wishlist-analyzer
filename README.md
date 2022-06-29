@@ -7,7 +7,7 @@ Python installed and PyCharm IDE installed.
 If one or more libraries is not installed, install the ones you don't have by typing ```pip install <library_name>``` in the Terminal section of PyCharm (Bottom left).
 
 ## How to use
-In the driver.py file you will find ``` urlOwnedListLinks = "<OWNED_LIST_LINK>" ``` and ``` wishlistLinks = "<WISHLIST_LINK>" ```. Replace ``` <OWNED_LIST_LINKS> ``` with the link to your Owned page, and replace ``` <WISHLIST_LINK> ``` with the link to your Wishlist page. Finally, run the program.
+Open driver.py with PyCharm IDE. In the driver.py file you will find ``` urlOwnedListLinks = "<OWNED_LIST_LINK>" ``` and ``` wishlistLinks = "<WISHLIST_LINK>" ```. Replace ``` <OWNED_LIST_LINKS> ``` with the link to your Owned page, and replace ``` <WISHLIST_LINK> ``` with the link to your Wishlist page. Finally, run the program by clicking the green arrow (top right, left of the green bug icon).
 
 The output files containing the analysis will be generated in the output folder.
 
