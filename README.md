@@ -1,6 +1,11 @@
 # BGG-owned-wishlist-analyzer
 A Python program that scrapes some data from your BGG Owned and Wishlist pages and compiles an analysis on them.
 
+## How to use
+In the driver.py file you will find ``` urlOwnedListLinks = "<OWNED_LIST_LINK>" ``` and ``` wishlistLinks = "<WISHLIST_LINK>" ```. Replace ``` <OWNED_LIST_LINKS>" ``` with the link to your Owned page, and replace ``` "<WISHLIST_LINK>" ``` with the link to your Wishlist page. Finally, run the program.
+
+The output files containing the analysis will be generated in the output folder.
+
 ## Output files explained
 Owned_List.txt - contains all the games you own, and for each one it writes its type, mechanics, categories and families. <br />
 Owned_Split.txt - sorts all your owned games by category, type, mechanic and family. <br />
