@@ -6,5 +6,10 @@ Owned_List.txt - contains all the games you own, and for each one it writes its 
 Owned_Split.txt - sorts all your owned games by category, type, mechanic and family. <br />
 Wishlist_List.txt - contains all the games you put on your wishlist, and for each one it writes its type, categories, mechanics and families. <br />
 Wishlist_Split.txt - sorts all your wishlisted games by category, type, mechanic and family. <br />
+Owned.xlsx - contains all the games you own and sorts them by their type, mechanics, categories and families. <br />
+Wishlist.xlsx - contains all the games you put on your wishlist and sorts them by their type, mechanics, categories and families. <br />
+Buylist.txt - sorts your wishlist by how many owend games' mechanics/categories you already have, and suggests the order in which you should buy games from your wishlist. <br />
+
+The Buylist_Normal.txt, Buylist_Indexed.txt, Buylist_AvgToScore.txt and Buylist_2AvgToAvgToScore.txt do roughly the same thing as Buylist.txt, but each sorts your wishlist in different ways (by different criteria). Check them out if you want a different sorting of your wishlist.
 
 
